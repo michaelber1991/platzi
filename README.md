@@ -1,0 +1,2 @@
+# platzi
+Styding use Git
